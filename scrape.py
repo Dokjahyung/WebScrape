@@ -3,7 +3,7 @@ from selenium import webdriver
 import statistics
 import time
  
-
+#this is a test of the webscrape beautiful soup library
 def shop2():
    PATH = r'usercode/chromedriver'
    driver = webdriver.Chrome(PATH)
